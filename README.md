@@ -32,6 +32,9 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%2303A9F4.svg?style=flat&logo=androidstudio&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![XML](https://img.shields.io/badge/XML-%23FF4F00.svg?style=flat&logo=xml&logoColor=white)
+
 
 
 
