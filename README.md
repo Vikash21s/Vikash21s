@@ -34,7 +34,7 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-%23FF4F00.svg?style=flat&logo=xml&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-%23C71F37.svg?style=flat&logo=maven&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-%23000000.svg?style=flat&logo=servicenow&logoColor=white)
+
 
 
 
