@@ -91,6 +91,6 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
 <!--- Snake --->
 <div align="center">
  
-<img src="https://github.com/deepakcode21/deepakcode21/blob/output/github-snake-dark.svg" width="250%">
+<img src="https://github.com/Vikash21s/Vikash21s/blob/output/github-snake-dark.svg" width="250%">
 
 </div>
