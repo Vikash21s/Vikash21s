@@ -20,42 +20,39 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
 
 <p>
     
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" style="max-width: 100%;">
 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="max-width: 100%;">
-
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" alt="Flutter" style="max-width: 100%;">
-
-<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" style="max-width: 100%;">
-
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" alt="Firebase" style="max-width: 100%;">
-
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" style="max-width: 100%;">
-
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%;">
-
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" style="max-width: 100%;">
-
-<img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" alt="JWT" style="max-width: 100%;">
-
-<img src="https://img.shields.io/badge/ServiceNow-%23000000.svg?style=flat&logo=servicenow&logoColor=white" alt="ServiceNow" style="max-width: 100%;">
-
-<img src="https://img.shields.io/badge/Burp_Suite-%23FFD700.svg?style=flat&logo=burpsuite&logoColor=black" alt="Burp Suite" style="max-width: 100%;">
-
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML" style="max-width: 100%;">
-
-<img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS" style="max-width: 100%;">
-
-<img src="https://img.shields.io/badge/Android_Studio-%2303A9F4.svg?style=flat&logo=androidstudio&logoColor=white" alt="Android Studio" style="max-width: 100%;">
-
-<img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" alt="Dart" style="max-width: 100%;">
-
-<img src="https://img.shields.io/badge/XML-%23FF4F00.svg?style=flat&logo=xml&logoColor=white" alt="XML" style="max-width: 100%;">
-
-<img src="https://img.shields.io/badge/Maven-%23C71F37.svg?style=flat&logo=maven&logoColor=white" alt="Maven" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="max-width: 100%;">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" style="max-width: 100%;">
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" style="max-width: 100%;">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40" style="max-width: 100%;">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" style="max-width: 100%;">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="max-width: 100%;">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="40" height="40" style="max-width: 100%;">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40" style="max-width: 100%;">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="40" height="40" style="max-width: 100%;">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/servicenow/servicenow-original.svg" width="40" height="40" style="max-width: 100%;">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burp/burp-original.svg" width="40" height="40" style="max-width: 100%;">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="max-width: 100%;">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="max-width: 100%;">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" width="40" height="40" style="max-width: 100%;">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" width="40" height="40" style="max-width: 100%;">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" width="40" height="40" style="max-width: 100%;">
 
 
 </p>
