@@ -18,45 +18,39 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
 
 ## 💻 Tech Stack:
 
-<p>
-    
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" style="max-width: 100%;">
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" style="max-width: 100%;">
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" style="max-width: 100%;">
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" style="max-width: 100%;">
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40" style="max-width: 100%;">
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" style="max-width: 100%;">
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="max-width: 100%;">
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="40" height="40" style="max-width: 100%;">
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40" style="max-width: 100%;">
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="40" height="40" style="max-width: 100%;">
+![ServiceNow](https://img.shields.io/badge/ServiceNow-%23000000.svg?style=flat&logo=servicenow&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/servicenow/servicenow-original.svg" width="40" height="40" style="max-width: 100%;">
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FFD700.svg?style=flat&logo=burpsuite&logoColor=black)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burp/burp-original.svg" width="40" height="40" style="max-width: 100%;">
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="max-width: 100%;">
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="max-width: 100%;">
+![Android Studio](https://img.shields.io/badge/Android_Studio-%2303A9F4.svg?style=flat&logo=androidstudio&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" width="40" height="40" style="max-width: 100%;">
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" width="40" height="40" style="max-width: 100%;">
+![XML](https://img.shields.io/badge/XML-%23FF4F00.svg?style=flat&logo=xml&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" width="40" height="40" style="max-width: 100%;">
-
-
-</p>
-
+![Maven](https://img.shields.io/badge/Maven-%23C71F37.svg?style=flat&logo=maven&logoColor=white)
 
 
 
