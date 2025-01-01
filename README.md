@@ -17,39 +17,43 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
 ---
 
 ## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-%23000000.svg?style=flat&logo=servicenow&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FFD700.svg?style=flat&logo=burpsuite&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-%2303A9F4.svg?style=flat&logo=androidstudio&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
-![XML](https://img.shields.io/badge/XML-%23FF4F00.svg?style=flat&logo=xml&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-%23C71F37.svg?style=flat&logo=maven&logoColor=white)
 
 <p>
     
-<img src="https://www.logolynx.com/images/logolynx/40/4070ab2cfaaaa20f057a719f1805d853.png" width="30" height="50" style="max-width: 100%;">
-    
-<img src="https://intellitech.pro/wp-content/uploads/2019/01/ff-min.png" width="50" height="50" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" style="max-width: 100%;">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="max-width: 100%;">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="max-width: 100%;">
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="max-width: 100%;">
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" alt="Flutter" style="max-width: 100%;">
 
-<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/06/sql-logo.png" height="40" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" alt="Firebase" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" alt="JWT" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/ServiceNow-%23000000.svg?style=flat&logo=servicenow&logoColor=white" alt="ServiceNow" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/Burp_Suite-%23FFD700.svg?style=flat&logo=burpsuite&logoColor=black" alt="Burp Suite" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/Android_Studio-%2303A9F4.svg?style=flat&logo=androidstudio&logoColor=white" alt="Android Studio" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" alt="Dart" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/XML-%23FF4F00.svg?style=flat&logo=xml&logoColor=white" alt="XML" style="max-width: 100%;">
+
+<img src="https://img.shields.io/badge/Maven-%23C71F37.svg?style=flat&logo=maven&logoColor=white" alt="Maven" style="max-width: 100%;">
+
 
 </p>
 
