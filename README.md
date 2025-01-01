@@ -54,6 +54,9 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
 
 <img src="https://img.shields.io/badge/Maven-%23C71F37.svg?style=flat&logo=maven&logoColor=white" alt="Maven" style="max-width: 100%;">
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" style="max-width: 100%;">
+
+
 
 </p>
 
