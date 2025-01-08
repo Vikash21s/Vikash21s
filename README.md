@@ -78,7 +78,6 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=burpsuite" width="45" height="45" alt="BurpSuite" />
-      <br>BurpSuite
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
