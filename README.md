@@ -154,12 +154,6 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
 ### 🔝 Top Contributed Repo:
 [![ChatWing-App](https://github-readme-stats.vercel.app/api/pin/?username=Vikash21s&repo=ChatWing-App&theme=dark)](https://github.com/Vikash21s/ChatWing-App)
 
