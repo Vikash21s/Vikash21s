@@ -25,8 +25,8 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
       <br>Java
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
+        <img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="gradle" />
+      <br>Gradle
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
@@ -37,15 +37,68 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
       <br>Maven
     </td>
     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
       <br>Tailwind
     </td>
+</tr>
+<tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="go" />
-      <br>go
+      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=jwt" width="45" height="45" alt="JWT" />
+      <br>JWT
+    </td>
+</tr>
+<tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/servicenow-icon.svg" width="45" height="45" alt="ServiceNow" />
+      <br>ServiceNow
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=burpsuite" width="45" height="45" alt="BurpSuite" />
+      <br>BurpSuite
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=dart" width="45" height="45" alt="Dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=xml" width="45" height="45" alt="XML" />
+      <br>XML
     </td>
 </tr>
 </table>
+
 
 
 
