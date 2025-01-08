@@ -47,7 +47,7 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
   <img src="https://profile-counter.glitch.me/Vikash21s/count.svg?"  />
 </div>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikash21s&theme=merko&custom_title=Vikash%20Activity%20Graph&hide_border=true&point=FFFFFF&days=50)](https://github.com/Vikash21s)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikash21s&theme=merko&custom_title=Vikash%20Sharma%20Activity%20Graph&hide_border=true&point=FFFFFF&days=50)](https://github.com/Vikash21s)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vikash21s&show_icons=true&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
