@@ -136,10 +136,6 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
       <br>Gradle
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="gcp" />
-      <br>GCP
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="maven" />
       <br>Maven
     </td>
