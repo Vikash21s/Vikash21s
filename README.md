@@ -52,7 +52,7 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
       <br>Gradle
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
       <br>Next.js
@@ -111,7 +111,7 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
       <img src="https://skillicons.dev/icons?i=jenkins" width="45" height="45" alt="jenkins" />
       <br>Jenkins
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 
