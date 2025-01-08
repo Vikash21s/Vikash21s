@@ -67,17 +67,17 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
       <br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=jwt" width="45" height="45" alt="JWT" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/jsonwebtokens.svg" width="45" height="45" alt="JWT" />
       <br>JWT
     </td>
 </tr>
 <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/servicenow-icon.svg" width="45" height="45" alt="ServiceNow" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/servicenow.svg" width="45" height="45" alt="ServiceNow" />
       <br>ServiceNow
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=burpsuite" width="45" height="45" alt="BurpSuite" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/burpsuite.svg" width="45" height="45" alt="BurpSuite" />
       <br>BurpSuite
     </td>
     <td align="center" width="90">
@@ -93,11 +93,12 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
       <br>Dart
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=xml" width="45" height="45" alt="XML" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/xml.svg" width="45" height="45" alt="XML" />
       <br>XML
     </td>
 </tr>
 </table>
+
 
 
 
