@@ -31,12 +31,24 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
       <img src="https://skillicons.dev/icons?i=spring" title="Spring" alt="Spring " width="45" height="45"/>
       <br>Spring
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React
     </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="maven" />
+      <br>Maven
+    </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="gradle" />
+      <br>Gradle
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
       <br>Next.js
@@ -56,10 +68,6 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="Svelte" />
       <br>Svelte
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-      <br>Tailwind
     </td>
     <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
@@ -102,14 +110,6 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=jenkins" width="45" height="45" alt="jenkins" />
       <br>Jenkins
-    </td>
-    <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="gradle" />
-      <br>Gradle
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="maven" />
-      <br>Maven
     </td>
   </tr>
 </table>
