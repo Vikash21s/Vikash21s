@@ -18,24 +18,88 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
 
 ## 💻 Tech Stack:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-%23000000.svg?style=flat&logo=servicenow&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FFD700.svg?style=flat&logo=burpsuite&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-%2303A9F4.svg?style=flat&logo=androidstudio&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
-![XML](https://img.shields.io/badge/XML-%23FF4F00.svg?style=flat&logo=xml&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-%23C71F37.svg?style=flat&logo=maven&logoColor=white)
-
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" alt="Dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/ServiceNow-%23000000.svg?style=flat&logo=servicenow&logoColor=white" alt="ServiceNow" />
+      <br>ServiceNow
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Burp_Suite-%23FFD700.svg?style=flat&logo=burpsuite&logoColor=black" alt="Burp Suite" />
+      <br>Burp Suite
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Android_Studio-%2303A9F4.svg?style=flat&logo=androidstudio&logoColor=white" alt="Android Studio" />
+      <br>Android Studio
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/XML-%23FF4F00.svg?style=flat&logo=xml&logoColor=white" alt="XML" />
+      <br>XML
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/Maven-%23C71F37.svg?style=flat&logo=maven&logoColor=white" alt="Maven" />
+      <br>Maven
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens" alt="JWT" />
+      <br>JWT
+    </td>
+  </tr>
+</table>
 
 
 
