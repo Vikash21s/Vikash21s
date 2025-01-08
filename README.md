@@ -32,10 +32,6 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
       <br>Spring
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="ts" />
       <br>TS
     </td>
