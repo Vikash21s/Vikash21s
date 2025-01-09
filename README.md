@@ -33,7 +33,7 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
+      <br>JavaScript
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
