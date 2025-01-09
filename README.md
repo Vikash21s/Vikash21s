@@ -20,7 +20,7 @@ I'm an **MCA student** passionate about turning ideas into reality. With experti
 <table align="center">
 <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="Java" />
+      <img src="https://techstack-generator.vercel.app/flutter-icon.svg" width="45" height="45" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="90">
