@@ -1,186 +1,116 @@
-# 👋 Hey, I’m  Vikash Sharma
+# 👋 Hey, I'm Vikash Sharma
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG96aXBmM3NkZHVxb3ViOGk2bXJweHZzY2R4MDVjajNpZTJ6cjNseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.webp"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG96aXBmM3NkZHVxb3ViOGk2bXJweHZzY2R4MDVjajNpZTJ6cjNseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.webp" />
 
+I'm a **Technical Support Engineer at Indus Towers Ltd.** with an MCA background and a strong interest in **ServiceNow Development, ITSM, IT Operations, and Automation**.
 
-I'm an **MCA student** passionate about turning ideas into reality. With expertise in **HTML, CSS, JavaScript, Flutter, Java**, and **ServiceNow**, I am focused on building seamless applications and experiences. Currently diving into **Penetration Testing** and **Blockchain** to create secure, decentralized digital solutions.
+I work with telecom infrastructure monitoring, incident management, troubleshooting, and performance analysis using tools like **SNMP Manager, Grafana, and BMC Remedy**. Alongside my professional role, I'm building hands-on expertise in ServiceNow platform development, workflow automation, and JavaScript-based scripting.
 
-### 🚀 Let's innovate, secure, and elevate digital transformations together!
-
----
-
-## 🧑‍💻 Current Focus:
-- Building a **Burp Suite** extension (**DetoxioInjection**) for penetration testing
-- Exploring **Blockchain** technologies
-- Mastering **Data Structures and Algorithms (DSA)** for solid problem-solving skills
+🚀 Passionate about solving technical problems, streamlining IT operations, and building efficient digital workflows.
 
 ---
 
-## 💻 Tech Stack:
-<table align="center">
-<tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=spring" title="Spring" alt="Spring " width="45" height="45"/>
-      <br>Spring
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
-      <br>Android
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" alt="Java" />
-      <br>GitHub 
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="maven" />
-      <br>Maven
-    </td>
-    <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="gradle" />
-      <br>Gradle
-    </td>
-  </tr>
-<!--   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
-      <br>Vue
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
-      <br>Nuxt.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-      <br>Angular
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="Svelte" />
-      <br>Svelte
-    </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-      <br>Three.js
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="55" height="55" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="azure" />
-      <br>Azure
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=dynamodb" width="45" height="45" alt="dynamodb" />
-      <br>Dynamodb
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="kubernetes" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=elasticsearch" width="45" height="45" alt="elasticsearch" />
-      <br>Elasticsearch
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=jenkins" width="45" height="45" alt="jenkins" />
-      <br>Jenkins
-    </td>
-  </tr> -->
-</table>
+## 💼 Current Role
 
+**Technical Support Engineer | Indus Towers Ltd.**
 
-
-
-
+- Monitor telecom infrastructure and site performance using SNMP Manager and Grafana dashboards.
+- Manage and track incidents through BMC Remedy, supporting timely resolution and SLA compliance.
+- Perform troubleshooting, log analysis, and root cause analysis (RCA).
+- Support site integration, activation, and configuration activities.
+- Analyze operational data and prepare reports to improve service availability.
+- Develop ServiceNow skills focused on ITSM processes, scripting, and workflow automation.
 
 ---
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Vikash21s/count.svg?"  />
-</div>
+## 🎯 Current Focus
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vikash21s&theme=merko&custom_title=Vikash%20Sharma%20Activity%20Graph&hide_border=true&point=FFFFFF&days=50)](https://github.com/Vikash21s)
+- ⚙️ **ServiceNow Development:** Client Scripts, Business Rules, Script Includes, and GlideRecord.
+- 🔄 **ITSM & Automation:** Incident Management, Service Catalog, Flow Designer, and SLA concepts.
+- 📊 **IT Operations:** Monitoring, incident lifecycle management, troubleshooting, and RCA.
+- 🔗 **Integrations:** REST APIs, webhooks, and external system integrations.
+- 🧠 **Problem Solving:** JavaScript, Data Structures and Algorithms (DSA).
+
+---
+
+## 🛠️ Tech Stack
+
+### ServiceNow & ITSM
+<p>
+<img src="https://img.shields.io/badge/ServiceNow-Platform-00A86B?style=for-the-badge&logo=servicenow&logoColor=white" />
+<img src="https://img.shields.io/badge/ITSM-Incident%20Management-405B73?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Flow%20Designer-Automation-6236FF?style=for-the-badge" />
+</p>
+
+### Programming & Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,java,python,react,nodejs,nextjs,html,css,tailwind" />
+</p>
+
+### Tools, Monitoring & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,mysql,mongodb,postman,linux,docker" />
+</p>
+
+**Professional tools:** SNMP Manager · Grafana · BMC Remedy · ServiceNow Personal Developer Instance (PDI)
+
+---
+
+## 🏅 ServiceNow Learning & Certifications
+
+- ServiceNow Micro-Certification — Flow Designer
+- ServiceNow Micro-Certification — Platform Analytics
+- ServiceNow Micro-Certification — Automated Test Framework (ATF)
+- ServiceNow platform scripting and application development practice
+
+---
+
+## 🚀 Featured Projects
+
+### 💬 ChatWing — Secure Messaging Application
+A Flutter-based messaging application featuring authentication, real-time messaging, group chats, and audio/video calling.
+
+**Tech:** Flutter · Firebase · ZEGOCLOUD
+
+[View Repository](https://github.com/Vikash21s/ChatWing-App)
+
+### 🛡️ Burp Suite Extensions
+Developed custom Burp Suite extensions for HTTP request logging, Host Header Injection testing, and automated security testing.
+
+**Tech:** Java · Burp Suite API · Gradle
+
+### 🤖 AI Chatbot
+Built an AI-powered chatbot using React and the Gemini API.
+
+**Tech:** React · JavaScript · Gemini API · Vite
+
+[Live Demo](https://chatbot-black-three.vercel.app/)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikash21s&show_icons=true&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikash21s&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikash21s&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikash21s&show_icons=true&theme=aura&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikash21s&theme=aura&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikash21s&theme=aura&hide_border=true&layout=compact" width="45%" />
 </div>
 
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/vikash21s/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Vikash21s"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.instagram.com/vikash_21s/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:mrvikashsharma75@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🌐 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vikash_21s/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikash21s/) 
-[![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://x.com/vikash_21s)
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:mrvikashsharma75@gmail.com)
+### 💡 My Goal
 
----
+To combine my experience in technical support and IT operations with ServiceNow development to build reliable, scalable, and automated IT service management solutions.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vikash21s&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Vikash21s&icon=9&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-### 🔝 Top Contributed Repo:
-[![ChatWing-App](https://github-readme-stats.vercel.app/api/pin/?username=Vikash21s&repo=ChatWing-App&theme=dark)](https://github.com/Vikash21s/ChatWing-App)
-
-
-
-
-
-
-
-
-
-
----
-
-</div>
-
-<!--- Snake --->
-<div align="center">
- 
-<img src="https://github.com/Vikash21s/Vikash21s/blob/output/github-snake-dark.svg" width="250%">
-
-</div>
+**Let's automate workflows, solve problems, and make IT operations smarter! 🚀**
