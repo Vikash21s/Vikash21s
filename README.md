@@ -39,7 +39,7 @@ I work with telecom infrastructure monitoring, incident management, troubleshoot
 ## ⚙️ ServiceNow & ITSM
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/servicenow/00A86B" width="110" height="110" alt="ServiceNow Logo" />
+  <img src="https://img.shields.io/badge/ServiceNow-Developer-00A86B?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow Developer" />
 </p>
 
 <h3 align="center">ServiceNow Developer | ITSM | Workflow Automation</h3>
