@@ -1,7 +1,8 @@
+
 # 👋 Hey, I'm Vikash Sharma
 
 <p align="center">
-  <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG96aXBmM3NkZHVxb3ViOGk2bXJweHZzY2R4MDVjajNpZTJ6cjNseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.webp" alt="Coding animation" />
+  <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG96aXBmM3NkZHVxb3ViOGk2bXJweHZzY2R4MDVjajNpZTJ6cjNseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.webp" />
 </p>
 
 I'm a **Technical Support Engineer at Indus Towers Ltd.** with an MCA background and a strong interest in **ServiceNow Development, ITSM, IT Operations, and Automation**.
@@ -21,14 +22,14 @@ I work with telecom infrastructure monitoring, incident management, troubleshoot
 - Perform troubleshooting, log analysis, and root cause analysis (RCA).
 - Support site integration, activation, and configuration activities.
 - Analyze operational data and prepare reports to support service availability.
-- Develop ServiceNow skills focused on ITSM processes, scripting, and workflow automation.
+- Apply ITSM concepts and develop ServiceNow platform skills.
 
 ---
 
 ## 🎯 Current Focus
 
-- ⚙️ **ServiceNow Development:** Client Scripts, Business Rules, Script Includes, and GlideRecord.
-- 🔄 **ITSM & Automation:** Incident Management, Service Catalog, Flow Designer, and SLA concepts.
+- ⚙️ **ServiceNow Development:** Client Scripts, Business Rules, Script Includes, GlideRecord.
+- 🔄 **ITSM & Automation:** Incident Management, Service Catalog, Flow Designer, SLA concepts.
 - 📊 **IT Operations:** Monitoring, incident lifecycle management, troubleshooting, and RCA.
 - 🔗 **Integrations:** REST APIs, webhooks, and external system integrations.
 - 🧠 **Problem Solving:** JavaScript, Data Structures and Algorithms (DSA).
@@ -53,7 +54,7 @@ I work with telecom infrastructure monitoring, incident management, troubleshoot
   <img src="https://img.shields.io/badge/GlideRecord-Server--Side%20Scripting-00A86B?style=flat-square" alt="GlideRecord" />
   <img src="https://img.shields.io/badge/Business%20Rules-Scripting-156082?style=flat-square" alt="Business Rules" />
   <img src="https://img.shields.io/badge/Client%20Scripts-Form%20Logic-6236FF?style=flat-square" alt="Client Scripts" />
-  <img src="https://img.shields.io/badge/REST%20API-Integrations-405B73?style=flat-square" alt="REST API" />
+  <img src="https://img.shields.io/badge/REST%20API-Integrations-405B73?style=flat-square" alt="REST APIs" />
 </p>
 
 **Areas of practice:**
@@ -73,13 +74,13 @@ I work with telecom infrastructure monitoring, incident management, troubleshoot
 ### 💻 Programming & Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nextjs,nodejs,html,css,tailwind" alt="Programming and web development" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nextjs,nodejs,html,css,tailwind" alt="Programming and web development skills" />
 </p>
 
 ### 📱 Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" alt="Mobile development" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" alt="Mobile development skills" />
 </p>
 
 ### 🗄️ Databases & Developer Tools
@@ -104,7 +105,7 @@ I work with telecom infrastructure monitoring, incident management, troubleshoot
 - ServiceNow Micro-Certification — Platform Analytics
 - ServiceNow Micro-Certification — Automated Test Framework (ATF)
 
-Currently practicing ServiceNow scripting, platform configuration, and application development in a Personal Developer Instance (PDI).
+*Also practicing ServiceNow scripting, platform configuration, and application development in a Personal Developer Instance (PDI).*
 
 ---
 
@@ -115,8 +116,6 @@ Currently practicing ServiceNow scripting, platform configuration, and applicati
 A Flutter-based messaging application featuring authentication, real-time messaging, group chats, and audio/video calling.
 
 **Tech Stack:** Flutter · Firebase · ZEGOCLOUD
-
-[![ChatWing](https://github-readme-stats.vercel.app/api/pin/?username=Vikash21s&repo=ChatWing-App&theme=dark)](https://github.com/Vikash21s/ChatWing-App)
 
 ### 🛡️ Burp Suite Extensions
 
@@ -155,14 +154,6 @@ Built an AI-powered chatbot using React and the Gemini API.
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Vikash21s/Vikash21s/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -195,4 +186,12 @@ To combine my experience in **technical support and telecom IT operations** with
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Vikash21s&label=Profile%20Views&color=00A86B&style=for-the-badge" alt="Profile Views" />
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Vikash21s/Vikash21s/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
