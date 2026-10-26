@@ -5,7 +5,7 @@
   <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG96aXBmM3NkZHVxb3ViOGk2bXJweHZzY2R4MDVjajNpZTJ6cjNseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.webp" />
 </p>
 
-I'm a **Technical Support Engineer at Indus Towers Ltd.** with an MCA background and a strong interest in **ServiceNow Development, ITSM, IT Operations, and Automation**.
+I'm a **L1 Support Engineer at Indus Towers Ltd.** with an MCA background and a strong interest in **ServiceNow Development, ITSM, IT Operations, and Automation**.
 
 I work with telecom infrastructure monitoring, incident management, troubleshooting, and performance analysis using **SNMP Manager, Grafana, and BMC Remedy**. Alongside my professional role, I'm developing hands-on expertise in ServiceNow scripting, application development, and workflow automation.
 
